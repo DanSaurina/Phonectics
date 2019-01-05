@@ -1,2 +1,2 @@
-# Phonectics
+# Phonetics
 Phonetic WebSite
